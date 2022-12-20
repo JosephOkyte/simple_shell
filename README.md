@@ -243,5 +243,5 @@ handle commands with arguments
 - Your shell should take a file as a command line argument
 
 ## Authors
-* [Bethel Orie](https://github.com/BethelOrie)
-* [Jude Asikogu](https://github.com/JudeHyde)
+* [Pearl Moses](https://github.com/Pearl41)
+* [Joseph Ikenna](https://github.com/JosephOkyte)
